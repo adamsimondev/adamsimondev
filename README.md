@@ -22,7 +22,7 @@
   <br/>
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
-![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;\
+![PHP](https://img.shields.io/badge/PHP-777BB4.svg?&style=flat&logo=php&logoColor=white)&nbsp;
 
 </details>
 
@@ -39,8 +39,3 @@
 
 <hr/>
 <br/>
-
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=adamsimondev&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/adamsimondev/adamsimondev?color=black&logo=github" />
-</p>
