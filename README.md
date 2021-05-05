@@ -33,7 +33,7 @@
         <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=adamsimondev&hide_border=true&theme=nightowl" />
     </p>
     <p align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamsimondev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&theme=nightowl" />
     </p>
 </details>
 
